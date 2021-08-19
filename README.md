@@ -1,2 +1,2 @@
 # robot-gladiators
-A short game made with JS
+A short console game made with JS
