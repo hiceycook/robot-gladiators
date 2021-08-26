@@ -1,2 +1,10 @@
 # robot-gladiators
-A short console game made with JS
+
+
+## Purpose
+A turn-based console log game.
+
+## Built With
+Javascript
+HTML
+CSS
